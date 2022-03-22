@@ -6,6 +6,8 @@
 import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
 import "channels"
+import $ from "jquery"
+
 
 Rails.start()
 Turbolinks.start()
